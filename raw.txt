@@ -1,0 +1,109 @@
+Dalla Viewability alla Citability: come l’AI sta imponendo la terza ondata di Media Accountability
+
+Negli ultimi anni ho avuto la fortuna di vivere, insieme a molti altri, tre cambiamenti fondamentali della misurazione delle campagne digitali.
+Quando esplose il tema della viewability ero in Smartclip: la battaglia per dimostrare che un annuncio fosse davvero visibile sullo schermo arrivò come uno tsunami che distrusse il rapporto di fiducia fra inserzionisti ed editori; era nata una nuova metrica oggettiva e puramente tecnica che consentì di misurare quello che fino ad allora era dato per scontato, e che evidentemente tanto scontato non era.
+Qualche anno dopo in Channel Factory abbiamo cominciato a introdurre il concetto di suitability: la consapevolezza che non basta essere visti ma, per essere davvero impattanti, serve esserlo nel contesto giusto. In questo caso la metrica è molto soggettiva, quello che è adatto per un brand potrebbe non esserlo per un altro, e di conseguenza la sua definizione varia da caso a caso.
+Oggi stiamo entrando nella terza ondata: quella della citability, dove la domanda è più “sono stato visto?”, ma “come sono rappresentato dai modelli AI?”.
+Questo passaggio rappresenta un cambio di paradigma cruciale a causa della natura stessa di cosa misuriamo. Mi spiego meglio: con la viewability e la suitability misuriamo la possibilità di essere visti e di esserlo in un contesto ottimale. Ma parliamo sempre di possibilità, non di garanzie. 
+Ma oggi, per la prima volta nella storia della comunicazione, quando un’AI viene interrogata c’è la garanzia che la risposta sarà praticamente sempre letta: se faccio una domanda, ovviamente la risposta mi interessa.
+Quindi nell’AI la reach è garantita (e già questo concetto è di per sé rivoluzionario) e la sfida si sposta su un piano completamente nuovo, quello della rappresentazione: il brand viene presentato in modo corretto, coerente e positivo?
+Ma facciamo un po’ di ordine.
+
+Prima ondata – Viewability (2013–2016): l’era dell’essere visibili
+
+Era la stagione in cui il mercato misurava la visibilità: standard MRC, pixel visibili, secondi in-view.
+Un KPI oggettivo, ma sterile.
+La viewability dimostrava che l’annuncio fosse visibile, ma non che avesse catturato l’attenzione, né tantomeno generato un impatto.
+Gli editori si sono trovati da soli a dover risolvere il problema, ridisegnando layout e formati per rispettare standard (giustissimi) imposti da altri, questo perché chi misurava non aveva il dato per aiutare nel delivery: era, ed è ancora, un approccio 100% in post-bid.
+Ricordiamo tutti cosa successe: valore eroso, CPM in caduta, fiducia minata.
+
+Risultato? Visibilità garantita, attenzione incerta.
+
+Seconda ondata – Suitability (2017–2025): l’era dell’essere nel posto giusto
+
+Dopo la Adpocalypse, la crisi di YouTube del 2017, l’industria ha scoperto che non basta essere visti, bisogna esserlo in un contesto giusto, sicuro e adatto.
+È nata così la stagione della brand suitability (come evoluzione diretta della brand safety): inclusion list, tassonomie, GARM, algoritmi contestuali.
+
+Un problema soggettivo, ciò che è adatto per un brand può essere inaccettabile per un altro, ma per la prima volta una metrica portava con sé una soluzione: chi misurava aveva anche il dato adatto a risolvere il problema: dal post al pre-bid.
+Il controllo è tornato ai brand, anche se l’equilibrio rimane incerto: nessuno può garantire che il messaggio, pur in un contesto sicuro e coerente, venga davvero ricevuto.
+
+Risultato? Contesto garantito (seppur soggettivo), ricezione incerta.
+
+Terza ondata – Citability (2024–oggi): l’era dell’essere rappresentati
+
+Oggi la sfida si è spostata ancora più avanti perché le AI non promettono impression, promettono risposte, e ogni risposta letta diventa un frammento di reputazione.
+
+Ribadiamo il concetto: le persone non cercano più: chiedono. E quando chiedono, leggono la risposta.
+
+È la prima volta che abbiamo un mezzo dove la ricezione del messaggio è praticamente garantita, dove non c’è più competizione per l’attenzione, né dispersione. Ma proprio per questo, la responsabilità cambia: non si tratta più di generare un impatto, ma di lavorare per assicurarsi una rappresentazione corretta.
+
+La citability quindi riguarda la capacità di un brand di essere presente, accuratamente e positivamente nelle risposte dei modelli AI.
+I nuovi KPI si misurano da qui, nel framework che ho chiamato PASS:
+•	Presence – il brand è citato?
+•	Accuracy – la citazione è corretta?
+•	Source – la fonte è autorevole?
+•	Stance – il tono è positivo, neutro o negativo?
+
+La citability non misura più la visibilità, ma la fiducia. È la metrica che, combinandone diverse, racconta come un brand esiste dentro le risposte: come viene descritto, associato, interpretato.
+
+Risultato? Lettura garantita, rappresentazione incerta.
+
+Una critica alle soluzioni esistenti
+
+Negli ultimi mesi ho studiato diversi player che stanno proponendo soluzioni per misurare aspetti della presenza dei brand nelle risposte AI: AI Visibility, Generative Mentions, Brand Recall in LLMs.
+
+Il fatto che ne nascano di continuo è un segnale sicuramente positivo, ma la maggior parte di questi approcci resta, a mio modesto avviso, molto debole sul piano scientifico: ci si limita a contare le risposte senza tenere conto delle domande.
+
+Sono infatti convinto che senza una metodologia robusta e rigorosa per costruire le domande in modo significativo, rappresentativo e replicabile, nessuna misura di citability può essere considerata attendibile.
+È come voler misurare la reach senza definire l’audience: non funziona.
+
+Misurare l’AI non significa contare le risposte, ma progettare le domande giuste. Ed è lì che comincia la vera accountability, perché contare le risposte è estrazione di dati; misurarle è ricerca.
+
+
+Una decade di evoluzione
+
+Era	Focus	Tipo di misura	Soluzione	Garanzia	Esito
+Viewability	Essere visti	Oggettiva	Nessuna (a carico degli editori)	Visibilità garantita, attenzione incerta	KPI tecnico
+Suitability	Essere nel contesto giusto	Soggettiva	Inclusion list	Contesto garantito (seppur soggettivo), ricezione incerta	KPI contestuale
+Citability	Essere rappresentati correttamente	Oggettiva	Metodologie emergenti	Lettura garantita, rappresentazione incerta	KPI reputazionale
+
+
+In ognuna di queste fasi, il progresso non è stato trovare una metrica nuova, ma costruire un metodo per interpretarla e ottimizzarla, e la citability non fa eccezione. Oggi questa evoluzione segna l’inizio di una nuova disciplina, la Generative Engine Optimization, o GEO, dalla “trovabilità” alla “citabilità” dei contenuti delle risposte generative (Approfondisco il tema GEO qui).
+
+Se la SEO nasceva per rendere un contenuto trovabile dai motori di ricerca, la GEO nasce per renderlo leggibile, interpretabile e citabile dai motori generativi.
+È un passaggio naturale: i motori di ricerca classificano link, quelli generativi formulano risposte.
+
+In questo contesto, la citability è il primo KPI tangibile della GEO: misura come un brand esiste dentro le risposte dell’intelligenza artificiale, non solo se compare, ma come viene rappresentato.
+
+È il punto di partenza di una nuova accountability: non più basata sulla visibilità, ma sulla credibilità algoritmica.
+
+Ed è proprio questa nuova dimensione, tra contenuto, rappresentazione e fiducia, che le grandi holding media stanno iniziando a esplorare.
+
+
+L’eco nell’industry
+
+Le grandi holding media stanno già intercettando il tema.
+
+WPP parla di “SEO is dead. Long live GEO?”.
+OMG di “un nuovo paradigma”.
+DENTSU ha lanciato un servizio di ottimizzazione GEO 
+HAVAS ha presentato un tool per il tracciamento dei brand nelle AI
+
+Nella pubblicità si compete per l’attenzione; nella search per la scoperta; nell’AI si compete per come si viene raccontati.
+Per misurarlo servono metodi solidi: approccio rigoroso, KPI derivati dal framework PASS e verifiche replicabili.
+
+Il dibattito è aperto, ma manca ancora un linguaggio condiviso e una metrica veramente scientifica.
+Alcune metodologie stanno già emergendo, ma solo quelle che partono dalle domande, non dalle risposte, avranno la solidità per diventare standard.
+
+Tre domande per capire se siete pronti alla citability
+
+1.	Quali domande (intent, journey, use case) generano davvero insight misurabili per il vostro brand e chi ne governa qualità e aggiornamento?
+2.	Avete un metodo replicabile per i KPI derivati dal framework PASS (Presence, Accuracy, Source, Stance) con campionamento, audit e versioning dichiarati?
+3.	Chi è accountable della rappresentazione del brand nelle risposte AI?
+
+Se qui emergono incertezze, il passo più sensato è un test pilota basato su query set robusti, misure sul framework PASS e governance definita. 
+Se ti interessa confrontare metodologie (sempre in ottica vendor-neutral), continuiamo la conversazione.
+
+
+
+
